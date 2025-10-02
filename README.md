@@ -1,4 +1,6 @@
 # TRADES-AND-SERVICES-OF-INDIA
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202302/cover_page-sixteen_nine.jpeg?VersionId=vAtR.ffDOdg.d99jPtEAB.kbwzWufVVy&size=690:388" width="1200" />
+
 **📊 Trades and Services Analysis**
 This document provides a detailed overview of trade and services data, focusing on key metrics, country-specific trade, and sector-based exports.
 
@@ -77,9 +79,10 @@ The document includes charts that track both total exports and total imports by 
 
 
 The total imports by year show values like 0.5K and 0.9K and exports are shown to be in the range of hundreds of billions 
-
-
-
-
-
 Total Imports by year are shown from 2018 to 2024 and exports by year are shown from 2018 to 2024 
+
+
+
+<img src="https://github.com/SwikritiKhare/TRADES-AND-SERVICES-OF-INDIA/blob/main/IMIAGES/Screenshot%202025-08-01%20210022.png" width="400" />
+
+
