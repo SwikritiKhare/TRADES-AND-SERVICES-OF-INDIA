@@ -83,6 +83,6 @@ Total Imports by year are shown from 2018 to 2024 and exports by year are shown 
 
 
 
-<img src="https://github.com/SwikritiKhare/TRADES-AND-SERVICES-OF-INDIA/blob/main/IMIAGES/Screenshot%202025-08-01%20210022.png" width="400" />
+<img src="https://github.com/SwikritiKhare/TRADES-AND-SERVICES-OF-INDIA/blob/main/IMIAGES/Screenshot%202025-08-01%20210022.png" width="800" />
 
 
